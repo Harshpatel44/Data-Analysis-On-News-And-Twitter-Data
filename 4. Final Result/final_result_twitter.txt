@@ -1,0 +1,12 @@
+education: 635
+canada: 1144
+university: 927
+dalhousie: 846
+expensive: 4
+good: 37
+bad: 6
+good school: 2
+bad school: 0
+faculty: 9
+computer science: 1
+graduate: 28
